@@ -1,0 +1,17 @@
+Motores de bases de datos comerciales:
+
+1. Oracle Database
+   - Licencia: Comercial
+   - Características: Alta escalabilidad, soporte empresarial
+
+2. Microsoft SQL Server
+   - Licencia: Comercial
+   - Características: Integración con herramientas de Microsoft, soporte corporativo
+
+3. IBM Db2
+   - Licencia: Comercial
+   - Características: Seguridad avanzada, análisis de grandes volúmenes de datos
+
+4. MySQL Enterprise Edition
+   - Licencia: Comercial (existen versiones gratuitas)
+   - Características: Soporte oficial, herramientas avanzadas de gestión
