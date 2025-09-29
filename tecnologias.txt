@@ -1,0 +1,1 @@
+Para desarrollar un sitio web, puedes incorporar diversas tecnologías divididas en Frontend (React, Angular, Vue, Svelte) para la interfaz de usuario, Backend (Django, Laravel, Express) para la lógica del servidor y las bases de datos, y herramientas complementarias como Git para control de versiones y plataformas como Webflow que combinan diseño y CMS. 
