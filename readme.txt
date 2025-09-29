@@ -3,3 +3,4 @@ Registro:
 
 Perfil de usuario:
 - Nombre, email, foto, etc.
+REVISADO
