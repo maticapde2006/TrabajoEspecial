@@ -1,0 +1,1 @@
+Dispositivo de salida que permite visualizar información en forma de texto, imagenes, o video. 
