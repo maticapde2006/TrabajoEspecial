@@ -1,0 +1,8 @@
+No autenticado.
+El usuario aún no ingresó o su sesión.
+
+Autenticado.
+Sesión.
+
+Sesión expiró.
+El usuario tenía sesión, pero ésta ya no es válida.
